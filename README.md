@@ -1,2 +1,0 @@
-# jmonterola.github.io
-MyPortfolio
