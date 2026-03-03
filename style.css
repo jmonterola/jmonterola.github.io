@@ -1,0 +1,12 @@
+img {
+    width: 150px;
+    border-radius: 50%;
+    float: left;
+    margin: 20px;
+}
+
+.Username {
+    font-family: Arial, sans-serif, bold;
+    color: #333;
+    margin-top: 0;
+}
